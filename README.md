@@ -35,8 +35,8 @@ You can run the queries on:
 Example commands:
 ```bash
 psql -f problem_name.sql        # PostgreSQL
-mysql < problem_name.sql        # MySQL
-
+mysql < problem_name.sql        # MySQL\
+```
 
 ## Author
 
