@@ -36,3 +36,8 @@ Example commands:
 ```bash
 psql -f problem_name.sql        # PostgreSQL
 mysql < problem_name.sql        # MySQL
+
+
+## Author
+
+**Changong Li**  
